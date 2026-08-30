@@ -1,0 +1,22 @@
+﻿Shaghaf Gents Salon — website image credits
+============================================
+Images are licensed for use on this site.
+
+ORIGINAL SALON PHOTOS (from Google Maps listing of Shaghaf Gents Salon):
+- salon-storefront.jpg
+
+STOCK PHOTOS (free-to-use licenses, downloaded via Openverse API):
+- haircut.jpg — CC0 1.0, "Hands png cutting man's hair", rawpixel.com/image/6489527
+- salon-space.jpg — CC BY 2.0, "Dom's Barber Shop" by CLender, flickr.com/photos/43547797@N00/3646053016
+- salon-east.jpg — CC BY 2.0, "Chinatown Barbershop" by Mike Babiarz, flickr.com/photos/50704320@N07/4947003059
+- barber-shop.jpg — CC BY 2.0, "Barber Shop" by Anna Tesar, flickr.com/photos/41894140117@N01/6846513858
+- salon-underground.jpg — CC BY 2.0, "Underground Barber Shop" by Tracy Elizabeth, flickr.com/photos/79556107@N08/7877633330
+
+STOCK PHOTOS (Pexels, free-to-use per Pexels License): https://www.pexels.com/license/
+- services-1.jpg — pexels.com/photo/2061820
+- services-2.jpg — pexels.com/photo/37663563
+- services-3.jpg — pexels.com/photo/1319459
+- pricing-ritual.jpg — pexels.com/photo/3998407
+- about-tools.jpg — pexels.com/photo/7697196
+- gallery-3.jpg — pexels.com/photo/7518736
+- contact-space.jpg — pexels.com/photo/13058812
